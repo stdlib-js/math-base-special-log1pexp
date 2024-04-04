@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import log1pexp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pexp@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-log1pexp/tags). For example,
+
+```javascript
 import log1pexp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pexp@v0.2.2-esm/index.mjs';
 ```
 
@@ -83,7 +88,7 @@ y = log1pexp( NaN );
 <script type="module">
 
 import incrspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-incrspace@esm/index.mjs';
-import log1pexp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pexp@v0.2.2-esm/index.mjs';
+import log1pexp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-log1pexp@esm/index.mjs';
 
 var x = incrspace( -10.0, 10.0, 0.01 );
 
