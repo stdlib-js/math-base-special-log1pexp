@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-11-08)
 
 <section class="reverts">
 
@@ -22,8 +22,10 @@
 
 <details>
 
+-   [`345f872`](https://github.com/stdlib-js/stdlib/commit/345f872944328e17cf12eb7a701eb3a549f491b5) - **chore:** add structured package data for `math/base/special/log1pexp` [(#8430)](https://github.com/stdlib-js/stdlib/pull/8430) _(by Manvith M, Athan Reines)_
+-   [`24e19f9`](https://github.com/stdlib-js/stdlib/commit/24e19f9d7fd8a648489afe4ba29940a4bfbeab6f) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
--   [`3a6a913`](https://github.com/stdlib-js/stdlib/commit/3a6a913fe41d3ffbbb4f73837fc6aa8396cdccce) - **bench:** update random value generation [(#6377)](https://github.com/stdlib-js/stdlib/pull/6377) _(by Harsh)_
+-   [`3a6a913`](https://github.com/stdlib-js/stdlib/commit/3a6a913fe41d3ffbbb4f73837fc6aa8396cdccce) - **bench:** update random value generation [(#6377)](https://github.com/stdlib-js/stdlib/pull/6377) _(by Harsh Yadav)_
 -   [`6a0d6b8`](https://github.com/stdlib-js/stdlib/commit/6a0d6b861f8e2079a501ca4e46a9175440eedb46) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
 -   [`f13ddb2`](https://github.com/stdlib-js/stdlib/commit/f13ddb2eb01e5520b6fa98634bbf9de76793036f) - **style:** use spaces for alignment in C comments _(by Philipp Burckhardt)_
 -   [`ff25e13`](https://github.com/stdlib-js/stdlib/commit/ff25e1324e1507cc076078e82badce7fdf7915f6) - **docs:** remove excess whitespace _(by Philipp Burckhardt)_
@@ -41,10 +43,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
--   Harsh
+-   Athan Reines
+-   Harsh Yadav
 -   Karan Anand
+-   Manvith M
 -   Philipp Burckhardt
 
 </section>
